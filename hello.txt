@@ -1,2 +1,3 @@
 this is 6 version for hello.tx
+gittest1
 gittest2
